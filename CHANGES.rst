@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+1.1.2
+-----
+
+* Bump ShipService WSDL to v15. (ikks)
+
 1.1.1
 -----
 
