@@ -31,7 +31,7 @@ class FedexProcessShipmentRequest(FedexBaseService):
         # Holds version info for the VersionId SOAP object.
         self._version_info = {
             'service_id': 'ship',
-            'major': '13',
+            'major': '15',
             'intermediate': '0',
             'minor': '0'
         }
